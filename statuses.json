@@ -1,0 +1,65 @@
+{
+	"rate_limit_context":{"access_token":"112838812-Wgcf2Y0dEcNB7zeptYwI7U5yut539Tq1dHg46VQ5"},
+	"resources":
+	{
+		"application":
+		{
+			"\/application\/rate_limit_status":{"limit":180,"remaining":178,"reset":1385028871}
+		},
+		"statuses":
+		{
+			"\/statuses\/mentions_timeline":{"limit":15,"remaining":15,"reset":1385029247},
+			"\/statuses\/show\/:id":{"limit":180,"remaining":180,"reset":1385029247},
+			"\/statuses\/oembed":{"limit":180,"remaining":180,"reset":1385029247},
+			"\/statuses\/retweeters\/ids":{"limit":15,"remaining":15,"reset":1385029247},
+			"\/statuses\/home_timeline":{"limit":15,"remaining":15,"reset":1385029247},
+			"\/statuses\/user_timeline":{"limit":180,"remaining":180,"reset":1385029247},
+			"\/statuses\/retweets\/:id":{"limit":15,"remaining":15,"reset":1385029247},
+			"\/statuses\/retweets_of_me":{"limit":15,"remaining":15,"reset":1385029247}
+		}
+	}
+}
+
+
+{"rate_limit_context":{"access_token":"112838812-Wgcf2Y0dEcNB7zeptYwI7U5yut539Tq1dHg46VQ5"},"resources":{"application":{"\/application\/rate_limit_status":{"limit":180,"remaining":176,"reset":1385043738}},"statuses":{"\/statuses\/mentions_timeline":{"limit":15,"remaining":15,"reset":1385044097},"\/statuses\/show\/:id":{"limit":180,"remaining":180,"reset":1385044097},"\/statuses\/oembed":{"limit":180,"remaining":180,"reset":1385044097},"\/statuses\/retweeters\/ids":{"limit":15,"remaining":15,"reset":1385044097},"\/statuses\/home_timeline":{"limit":15,"remaining":15,"reset":1385044097},"\/statuses\/user_timeline":{"limit":180,"remaining":180,"reset":1385044097},"\/statuses\/retweets\/:id":{"limit":15,"remaining":15,"reset":1385044097},"\/statuses\/retweets_of_me":{"limit":15,"remaining":15,"reset":1385044097}}}}
+
+
+
+
+Current timestamp: 1385044481
+looking for-{"\/
+{"rate_limit_context":{"access_token":"112838812-Wgcf2Y0dEcNB7zeptYwI7U5yut539Tq1dHg46VQ5"}
+,"resources":{"application
+,"\/application\/rate_limit_status":{"limit":180,"remaining":170,"reset":1385044650}
+}
+,"statuses
+,"\/statuses\/mentions_timeline":{"limit":15,"remaining":15,"reset":1385045444}
+,"\/statuses\/show\/:id":{"limit":180,"remaining":180,"reset":1385045444}
+,"\/statuses\/oembed":{"limit":180,"remaining":180,"reset":1385045444}
+,"\/statuses\/retweeters\/ids":{"limit":15,"remaining":15,"reset":1385045444}
+,"\/statuses\/home_timeline":{"limit":15,"remaining":15,"reset":1385045444}
+,"\/statuses\/user_timeline":{"limit":180,"remaining":180,"reset":1385045444}
+,"\/statuses\/retweets\/:id":{"limit":15,"remaining":15,"reset":1385045444}
+,"\/statuses\/retweets_of_me":{"limit":15,"remaining":15,"reset":1385045444}
+}
+}
+}
+
+---
+looking for-{"\/
+{"rate_limit_context":{"access_token":"112838812-Wgcf2Y0dEcNB7zeptYwI7U5yut539Tq1dHg46VQ5"}
+,"resources":{"application
+,"\/application\/rate_limit_status":{"limit":180,"remaining":169,"reset":1385044650}
+}
+,"statuses
+,"\/statuses\/mentions_timeline":{"limit":15,"remaining":15,"reset":1385045446}
+,"\/statuses\/show\/:id":{"limit":180,"remaining":180,"reset":1385045446}
+,"\/statuses\/oembed":{"limit":180,"remaining":180,"reset":1385045446}
+,"\/statuses\/retweeters\/ids":{"limit":15,"remaining":15,"reset":1385045446}
+,"\/statuses\/home_timeline":{"limit":15,"remaining":15,"reset":1385045446}
+,"\/statuses\/user_timeline":{"limit":180,"remaining":180,"reset":1385045446}
+,"\/statuses\/retweets\/:id":{"limit":15,"remaining":15,"reset":1385045446}
+,"\/statuses\/retweets_of_me":{"limit":15,"remaining":15,"reset":1385045446}
+}
+}
+}
